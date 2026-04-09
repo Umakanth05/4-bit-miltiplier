@@ -22,7 +22,7 @@ This project implements a 4-bit binary multiplier using structural Verilog. Part
 ## 📊 Results
 
 ### 🔹 Schematic
-![Schematic](docs/4-bit multiplier schematic.png)
+![Schematic](docs/4-bit)
 
 ### 🔹 Simulation Waveform
 ![Waveform](docs/4-bitmultiplier simulation waveform.png)
