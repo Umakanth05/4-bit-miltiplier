@@ -25,7 +25,7 @@ This project implements a 4-bit binary multiplier using structural Verilog. Part
 ![Schematic](docs/schematic.png)
 
 ### 🔹 Simulation Waveform
-![Waveform](docs/waveform.png)
+![Waveform](docs/waveform1.png)
 
 ## ▶️ How to Run
 1. Open project in Vivado  
